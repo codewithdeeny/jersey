@@ -1,0 +1,26 @@
+
+body{
+    background-color:lightyellow;
+    font-size: 100%;
+    color: olive;
+}
+h1{
+    font-family: cursive;
+}
+#subheading{
+    font-style: italic;
+}
+.sign{
+    background-color:burlywood; 
+    color: white; 
+    font-size: 20px;
+    padding: 14px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    text-decoration:none;
+    padding: 5px;
+}
+#small{
+    position: relative;
+    margin-right: 50px;
+}
